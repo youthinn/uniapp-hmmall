@@ -1,0 +1,1 @@
+<view class="nav"><block wx:for="{{navs}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['navItemClick',['$0'],[[['navs','',index,'path']]]]]]]}}" class="nav-item" bindtap="__e"><view class="{{[item.icon]}}"></view><text>{{item.title}}</text></view></block></view>

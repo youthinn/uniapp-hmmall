@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "黑马商城",
+  "usingComponents": {
+    "home-nav": "/pages/home/child/HomeNav",
+    "home-goods": "/pages/home/child/HomeGoods"
+  }
+}

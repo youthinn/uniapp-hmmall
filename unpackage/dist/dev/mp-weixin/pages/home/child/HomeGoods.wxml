@@ -1,0 +1,1 @@
+<view class="recommend"><view class="recommend-title">商品推荐</view><goods-list vue-id="52521d79-1" goods="{{goods}}" data-event-opts="{{[['^goodsItemClick',[['goGoodsDetail']]]]}}" bind:goodsItemClick="__e" bind:__l="__l"></goods-list></view>
